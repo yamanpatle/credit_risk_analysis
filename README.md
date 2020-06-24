@@ -1,2 +1,2 @@
 # credit_risk_analysis
-Predict of credit risk anaysis
+Prediction of credit risk anaysis
